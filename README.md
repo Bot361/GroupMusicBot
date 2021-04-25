@@ -11,11 +11,11 @@
 
 ## Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UvinduBro/GroupMusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bot361/DaisyXMusic)
 
 Get pyrogram STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@UvinduBro/Generate-Telegram-String-Session)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Bot361/Generate-Telegram-String-Session)
 
 ## Credits
 
@@ -26,4 +26,4 @@ Get pyrogram STRING_NAME from here:
 
 ### Developers:
 
-[@Uvindu Bro 🇱🇰](https://t.me/Uvindu_Bro)
+[@SL_PUNSITH1](https://t.me/Uvindu_Bro)
